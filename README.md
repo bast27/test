@@ -1,2 +1,2 @@
 # test
-test first repository in github ;-)
+test first repository in github ! ;-)
